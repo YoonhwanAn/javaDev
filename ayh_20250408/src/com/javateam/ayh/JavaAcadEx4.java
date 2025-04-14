@@ -6,6 +6,7 @@ public class JavaAcadEx4 {
 
 	public static void main(String[] args) {
 		
+		//test
 		// 조건문
 		//int score = 60;
 		
