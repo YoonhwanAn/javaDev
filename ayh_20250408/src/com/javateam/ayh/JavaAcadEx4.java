@@ -6,9 +6,8 @@ public class JavaAcadEx4 {
 
 	public static void main(String[] args) {
 		
-		//test
 		// 조건문
-		//int score = 60;
+		// int score = 60;
 		
 		// Case5) 점수(score)에 따른 학점(credit) #2
 		/*
