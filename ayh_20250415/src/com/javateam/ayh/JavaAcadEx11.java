@@ -34,7 +34,7 @@ public class JavaAcadEx11 {
 		float average6 = (float)(Math.round(average3 * Math.pow(10,  1)) / Math.pow(10, 1));
 		// System.out.printf("평균(case6) = %.2f%n", average6);
 		// System.out.printf("평균(case6) = %.1f%n", average6);
-		System.out.printf("평균(case6) = %s%n", average6);
+		System.out.printf("평균(case6) = %s%n", average6); 
 		
 	} // main
 
